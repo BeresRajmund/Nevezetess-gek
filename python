@@ -1,0 +1,10 @@
+import n_class
+adatok = []
+
+def inputFile(file):
+    f = open(file, "r")
+    for sor in f:
+        sor=sor[:-1].split(";")
+        példány = n_class.Nevezetességek(sor[0],sor[1],sor[2],sor[3])
+        adatok.append(példány)
+    f.close()
