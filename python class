@@ -1,1 +1,6 @@
-
+class Nevezetességek:
+    def __init__(self, helye, neve, ideje):
+        self.helye = helye
+        self.neve = neve
+        self.ideje = int(ideje)
+        
