@@ -8,3 +8,23 @@ def inputFile(file):
         példány = n_class.Nevezetességek(sor[0],sor[1],sor[2],sor[3])
         adatok.append(példány)
     f.close()
+    
+ans=True
+while ans:
+    print (""""
+    1.Add a Student
+    2.Delete a Student
+    3.Look Up Student Record
+    4.Exit/Quit
+    """")
+    ans=input("Mit szeretnél tudni?" 
+    if ans=="1": 
+      print("\nStudent Added") 
+    elif ans=="2":
+      print("\n Student Deleted") 
+    elif ans=="3":
+      print("\n Student Record Found") 
+    elif ans=="4":
+      print("\n Goodbye") 
+    elif ans !="":
+      print("\n Nem valid választás probáld újra testver") 
