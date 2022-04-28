@@ -1,0 +1,10 @@
+1. Miben különbözik a projekt és a program (Ez a program a projekttel kapcsolatos program kifejezés!)?
+2. Olvasd el a http://centroszet.hu/tananyag/projektmenedzsement/241_pcm_szakaszai.html
+oldalt!
+a,Mi az a PCM?
+b,Mik a PCM alapelvek?
+c,Mik a PCM szakaszai?
+d,A PCM egyszerűsített modellben az elemzés melyik szakaszhoz tartozik?
+e,A PCM egyszerűsített modellben a tervezésnek milyen módzserei vannak?
+3. Nézz utána, hogy mi az a Gantt- diagram!
+4. Nézz utána, hogy mi az a logikai keretmátrix!

@@ -1,0 +1,9 @@
+Olvasd el az életciklus modellekről szóló részt a tervezési alapismeretek.pdf-ben!
+(http://aktivitas-tiszk.hu/elearning/Obuch_Laszlo/Tervezesi_alapismeretek.pdf)
+Válaszolj a kérdésekre:
+1. Sorolj fel életciklus modelleket!
+2. Miben más a továbbfejlesztett vízesés modell a vízesés modellhez képest?
+3. Miben másak az iteratív modellek a vízesés modellehez képest?
+4. Írj néhány mondatot a prototípus modellről saját szavaiddal!
+5. Miben hasonlít és miben különbözik a V-modell a vízesés modelltől?
+6. Milyen előnyei vannak az iteratív modelleknek?

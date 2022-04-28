@@ -1,0 +1,1 @@
+1. Készítsetek önálló példát SWOT analízisre, problémafa éa az ahhoz kapcsolódó célfára, Gantt-diagramra! Válasszátok ki a feladathoz illő informatikai alkalmazást, aminek a segítségével megoldjátok a feladatokat!

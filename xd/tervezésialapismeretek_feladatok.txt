@@ -1,0 +1,27 @@
+ Olvasd el a
+
+http://aktivitas-tiszk.hu/elearning/Obuch_Laszlo/Tervezesi_alapismeretek.pdf
+
+fájlban az első 6 oldalt, majd válaszolj a következő kérdésekre:
+
+1. Mit nevezünk rendszernek?
+
+2. Milyen szempontok szerint és hogyan csoportosíthatjuk a rendszereket?
+
+3. Mit nevezünk informatikai rendszernek?
+
+4. Mi az interfész?
+
+5. Sorold fel az informatikai rendszerek létrehozásának általános lépéseit!
+
+6. Mik azok az életciklus modellek?
+
+7. Mi a verifikáció?
+
+8. Mi a validáció?
+
+9. Milyen lépéseken keresztül kell meghatározni a követelményeket?
+
+10. Miket tartalmaz a megvalósíthatósági tanulmány?
+
+11. Mit nevezünk erőforrásnak?
