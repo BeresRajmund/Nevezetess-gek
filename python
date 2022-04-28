@@ -49,18 +49,18 @@ while loop:
     elif choice==5:
         print "Ecuador"
     elif choice==6:
-        print "Omá"
+        print "Omán"
     elif choice==7:
-        print "Menu 7 has been selected"
+        print "Tádzsikisztán"
         
     elif choice==8:
-        print "Menu 8 has been selected"
+        print "Vatikán"
         
     elif choice==9:
-        print "Menu 9 has been selected"
+        print "Nicaragua"
         
     elif choice==10:
-        print "Menu 10 has been selected"
-        loop=False 
+        print "Fidzsi-szigetek"
+        loop=False
     else:
         raw_input("Ne bántsd a fát hisz ő is érez.")
