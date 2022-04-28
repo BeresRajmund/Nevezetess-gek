@@ -31,41 +31,42 @@ while choice != -1:
     
      
     if choice==1:     
-        print ("Ausztrália")
+        print ("Ausztrália;Sydney-i Operaház;Sydney;2007")
         break
         
     elif choice==2:
-        print ("Malawi")
+        print ("Malawi;Mvuu Tábor;Chiwambo;2001")
         break
     
     elif choice==3:
-        print ("Lengyelország")
+        print ("Lengyelország;Waweli székesegyház;Krakkó;1020")
         break
     
     elif choice==4:
-        print ("Nigéria")
+        print ("Nigéria;Lagosi Szabadság Park;Lagos;1960")
         break
     
     elif choice==5:
-        print ("Ecuador")
+        print ("Ecuador;Quilotoa;Andok;1500")
         break
     
     elif choice==6:
-        print ("Omán")
+        print ("Omán;Sultan Qaboos Grand Mosque;Maszkat;2001")
         break
     
     elif choice==7:
-        print ("Tádzsikisztán")
+        print ("Tádzsikisztán;Tádzsikisztáni Nemzeti Múzeum;Dusanbe;1934")
         break
 
     elif choice==8:
-        print ("Vatikán")
+        print ("Vatikán;Szent Péter-bazilika;Róma;1626")
         break
         
     elif choice==9:
-        print ("Nicaragua")
+        print ("Nicaragua;Boldogságos Szűz Mária Mennybemenetele igazi és híres bazilikai székesegyháza;León;1814")
         break
         
     elif choice==10:
-        print ("Fidzsi-szigetek")
+        print ("Fidzsi-szigetek;Koroyanitu Nemzeti Park;Viti Levu;1965
+               ")
         break
