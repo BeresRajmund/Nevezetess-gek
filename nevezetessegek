@@ -1,0 +1,72 @@
+import n_class
+adatok = []
+
+def inputFile(file):
+    f = open(file, "r")
+    for sor in f:
+        sor=sor[:-1].split(";")
+        példány = n_class.Nevezetességek(sor[0],sor[1],sor[2],sor[3])
+        adatok.append(példány)
+    f.close    
+def print_menu():       
+    print(30 * "-" , "MENU" , 30 * "-")
+    print ("1. Ausztrália 1")
+    print ("2. Malawi 2")
+    print ("3. Lengyelország 3")
+    print ("4. Nigéria 4")
+    print ("5. Ecuador 5")
+    print ("6. Omán 6")
+    print ("7. Tádzsikisztán 7")
+    print ("8. Vatikán 8")
+    print ("9. Nicaragua 9")
+    print ("10. Fidzsi-szigetek 10")
+    print ("11. Exit")
+    print(67 * "-")
+    
+print_menu()    
+choice = int(input("Válaszd ki az országot [1-10]: "))  
+
+while choice != -1:
+
+    
+     
+    if choice==1:     
+        print ("Ausztrália;Sydney-i Operaház;Sydney;2007")
+        break
+        
+    elif choice==2:
+        print ("Malawi;Mvuu Tábor;Chiwambo;2001")
+        break
+    
+    elif choice==3:
+        print ("Lengyelország;Waweli székesegyház;Krakkó;1020")
+        break
+    
+    elif choice==4:
+        print ("Nigéria;Lagosi Szabadság Park;Lagos;1960")
+        break
+    
+    elif choice==5:
+        print ("Ecuador;Quilotoa;Andok;1500")
+        break
+    
+    elif choice==6:
+        print ("Omán;Sultan Qaboos Grand Mosque;Maszkat;2001")
+        break
+    
+    elif choice==7:
+        print ("Tádzsikisztán;Tádzsikisztáni Nemzeti Múzeum;Dusanbe;1934")
+        break
+
+    elif choice==8:
+        print ("Vatikán;Szent Péter-bazilika;Róma;1626")
+        break
+        
+    elif choice==9:
+        print ("Nicaragua;Boldogságos Szűz Mária Mennybemenetele igazi és híres bazilikai székesegyháza;León;1814")
+        break
+        
+    elif choice==10:
+        print ("Fidzsi-szigetek;Koroyanitu Nemzeti Park;Viti Levu;1965
+               ")
+        break
